@@ -1,7 +1,7 @@
 PATH
   remote: .././
   specs:
-    carmen-rails (1.0.0)
+    carmen-rails (1.0.1)
       carmen (~> 1.1.1)
       rails
 
