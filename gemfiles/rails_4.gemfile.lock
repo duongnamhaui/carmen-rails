@@ -39,7 +39,7 @@ GEM
     arel (4.0.2)
     atomic (1.1.15)
     builder (3.1.4)
-    carmen (1.0.1)
+    carmen (1.1.1)
       unicode_utils (~> 1.4.0)
     columnize (0.3.6)
     debugger (1.6.6)
